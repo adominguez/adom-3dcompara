@@ -1,0 +1,442 @@
+[{
+  "printerName": "Anet A8",
+  "printerimage": "https://images-na.ssl-images-amazon.com/images/I/61uZ-K4dBGL._SX425_.jpg",
+  "experience": {
+    "dificult": "Básica"
+  },
+  "score": 0,
+  "maker": {
+    "forBuild": true,
+    "build": "8 horas"
+  },
+  "dimensions": {
+    "carry": false,
+    "volume": "510x400x415 - 9kg"
+  },
+  "printerScore": 9,
+  "price": 170,
+  "quality": "Buena",
+  "moreInformation": "./impresora-3D-anet-a8-opiniones-valoracion-analisis",
+  "buy": "https://www.amazon.es/Anet-Impresora-diversidad-material-Impresi%C3%B3n/dp/B075TZPX5G"
+},{
+  "printerName": "Anycubic i3 MEGA Impresora 3D",
+  "printerimage": "https://images-na.ssl-images-amazon.com/images/I/61OeIv3kdNL._SX466_.jpg",
+  "experience": {
+    "dificult": "Básica"
+  },
+  "printerScore": 10,
+  "score": 0,
+  "maker": {
+    "forBuild": false,"forBuild": false,
+    "build": "-"
+  },
+  "dimensions": {
+    "carry": false,
+    "volume": "420x450x430"
+  },
+  "price": 350,
+  "quality": "Buena",
+  "moreInformation": "./anycubic-i3-mega-opiniones-valoracion-analisis",
+  "buy": "https://www.amazon.es/Anycubic-Impresora-Pulgadas-Impresi%C3%B3n-%CF%86210x210x205mm/dp/B06XK7VYX9"
+},
+{
+  "printerName": "Creality CR-10s Aibecy 3D",
+  "printerimage": "https://images-na.ssl-images-amazon.com/images/I/71tJ-DtYEeL._SY355_.jpg",
+  "experience": {
+    "dificult": "Básica"
+  },
+  "score": 0,
+  "maker": {
+    "forBuild": false,
+    "build": "1 hora"
+  },
+  "dimensions": {
+    "carry": true,
+    "volume": "200x300x400"
+  },
+  "price": 520,
+  "quality": "Buena",
+  "moreInformation": "./creality-cr-10s-aibecy-3d",
+  "buy": "https://www.amazon.es/Creality-Aibecy-Impresora-Impresión-Filamento/dp/B0772QF2FQ"
+},
+{
+  "printerName": "ANYCUBIC​ 3D​ ​Impresora Versión ​​Lineal ​Kossel ​​Plus",
+  "printerimage": "https://images-na.ssl-images-amazon.com/images/I/61UuCY0zDiL._SX425_.jpg",
+  "experience": {
+    "dificult": "Básica"
+  },
+  "score": 0,
+  "maker": {
+    "forBuild": true,
+    "build": "4 horas"
+  },
+  "dimensions": {
+    "carry": false,
+    "volume": "10kg"
+  },
+  "price": 350,
+  "quality": "Buena",
+  "moreInformation": "./anycubic-3d-impresora-lineal-kossel-plus",
+  "buy": "https://www.amazon.es/ANYCUBIC-Impresora-Versión-Autocalibración-autolevel/dp/B076H2KJVG"
+},
+{
+  "printerName": "Geeetech Impresora 3D de madera Prusa I3",
+  "printerimage": "https://images-na.ssl-images-amazon.com/images/I/71fpiSWUuUL._SX425_.jpg",
+  "experience": {
+    "dificult": "Intermedia"
+  },
+  "score": 0,
+  "maker": {
+    "forBuild": true,
+    "build": "9 horas"
+  },
+  "dimensions": {
+    "carry": true,
+    "volume": "10kg"
+  },
+  "price": 200,
+  "quality": "Media",
+  "moreInformation": "./geeetech-impresora-3d-de-madera-prusa-i3",
+  "buy": "https://www.amazon.es/Impresora-escritorio-bricolaje-200x200x180mm-impresión/dp/B075FQRNY3"
+},
+{
+  "printerName": "Anycubic Prusa i3 Impresora 3D",
+  "printerimage": "https://images-na.ssl-images-amazon.com/images/I/61mDMg6A-zL._SX466_.jpg",
+  "experience": {
+    "dificult": "Básica"
+  },
+  "printerScore": 7,
+  "score": 0,
+  "maker": {
+    "forBuild": true,
+    "build": "4 horas"
+  },
+  "dimensions": {
+    "carry": false,
+    "volume": "10kg"
+  },
+  "price": 250,
+  "quality": "Buena",
+  "moreInformation": "./anycubic-prusa-i3-impresora-3d",
+  "buy": "https://www.amazon.es/Impresora-plataforma-patentada-Ultrabase-φ210x210x250/dp/B074DQZCLT"
+},
+{
+  "printerName": "Geeetech impresora 3D E180",
+  "printerimage": "https://images-na.ssl-images-amazon.com/images/I/51rM1bSIg2L._SX466_.jpg",
+  "experience": {
+    "dificult": "Básica"
+  },
+  "score": 0,
+  "maker": {
+    "forBuild": false,
+    "build": "-"
+  },
+  "dimensions": {
+    "carry": true,
+    "volume": "6Kg"
+  },
+  "price": 300,
+  "quality": "Buena",
+  "moreInformation": "./geeetech-impresora-3d-e180",
+  "buy": "https://www.amazon.es/impresora-Impresora-incorporado-recuperación-aplicación/dp/B076P63G2Y"
+},
+{
+  "printerName": "Anet A6 Kits de Impresora 3D",
+  "printerimage": "https://images-na.ssl-images-amazon.com/images/I/7167OhjMPFL._SY450_.jpg",
+  "experience": {
+    "dificult": "Intermedia"
+  },
+  "score": 0,
+  "maker": {
+    "forBuild": true,
+    "build": "10 horas"
+  },
+  "dimensions": {
+    "carry": false,
+    "volume": "480x400x400"
+  },
+  "price": 250,
+  "quality": "Media",
+  "moreInformation": "./anet-a6",
+  "buy": "https://www.amazon.es/Anet-Impresora-Repulsi%C3%B3n-Bricolaje-Impresi%C3%B3n/dp/B01N4KT3SC"
+},
+{
+  "printerName": "Monoprice Select Mini 3D",
+  "printerimage": "https://images-na.ssl-images-amazon.com/images/I/61f5KmW6vwL._SX466_.jpg",
+  "experience": {
+    "dificult": "Intermedia"
+  },
+  "score": 0,
+  "maker": {
+    "forBuild": false,
+    "build": "-"
+  },
+  "dimensions": {
+    "carry": true,
+    "volume": "120x120x120"
+  },
+  "price": 250,
+  "quality": "Media",
+  "moreInformation": "./monoprice-select-mini-3d",
+  "buy": "https://www.amazon.es/Monoprice-Impresora-Construcci%C3%B3n-Calentada-Adaptador/dp/B06XXMRFHR"
+},
+{
+  "printerName": "BQ Witbox 2 - Impresora 3D",
+  "printerimage": "https://images-na.ssl-images-amazon.com/images/I/81JrwHYHhqL._SX466_.jpg",
+  "experience": {
+    "dificult": "Básica"
+  },
+  "score": 0,
+  "maker": {
+    "forBuild": false,
+    "build": "-"
+  },
+  "dimensions": {
+    "carry": true,
+    "volume": "500x480x460"
+  },
+  "price": 1500,
+  "quality": "Buena",
+  "moreInformation": "./bq-witbox-2-impresora-3d",
+  "buy": "https://www.amazon.es/BQ-Witbox-Impresora-resoluci%C3%B3n-velocidad/dp/B0196K6C88"
+},
+{
+  "printerName": "ANYCUBIC PHOTON Impresora DLP Luz UV 3D",
+  "printerimage": "https://images-na.ssl-images-amazon.com/images/I/41YymyqconL._SX425_.jpg",
+  "experience": {
+    "dificult": "Intermedia"
+  },
+  "score": 0,
+  "maker": {
+    "forBuild": false,
+    "build": "-"
+  },
+  "dimensions": {
+    "carry": true,
+    "volume": "220x220x400"
+  },
+  "price": 500,
+  "quality": "Buena",
+  "moreInformation": "./bq-witbox-2-impresora-3d",
+  "buy": "https://www.amazon.es/ANYCUBIC-Impresora-Montada-Pantalla-impresión/dp/B078TCT7P5"
+},
+{
+  "printerName": "Athorbot Brother impresora 3d prusa i3",
+  "printerimage": "https://images-na.ssl-images-amazon.com/images/I/61CJCaupT%2BL._SX466_.jpg",
+  "experience": {
+    "dificult": "Básica"
+  },
+  "score": 0,
+  "maker": {
+    "forBuild": false,
+    "build": "-"
+  },
+  "dimensions": {
+    "carry": false,
+    "volume": "16kg"
+  },
+  "price": 500,
+  "quality": "Buena",
+  "moreInformation": "./Athorbot-brother-impresora-3d-prusa-i3",
+  "buy": "https://www.amazon.es/Athorbot-Brother-impresora-Imprimir-Construcci%C3%B3n/dp/B073S1JX2B"
+},
+{
+  "printerName": "Anet E10 Marco de Aluminio",
+  "printerimage": "https://images-na.ssl-images-amazon.com/images/I/61cUIMQ7hBL._SX466_.jpg",
+  "experience": {
+    "dificult": "Intermedia"
+  },
+  "score": 0,
+  "maker": {
+    "forBuild": true,
+    "build": "2 horas"
+  },
+  "dimensions": {
+    "carry": false,
+    "volume": "220x270x300"
+  },
+  "price": 290,
+  "quality": "Media",
+  "moreInformation": "./anet-e10-marco-de-aluminio",
+  "buy": "https://www.amazon.es/Anet-Aluminio-Multi-idioma-Impresora-Bricolaje/dp/B074H272WR"
+},
+{
+  "printerName": "Monoprice Maker Select V2",
+  "printerimage": "https://images-na.ssl-images-amazon.com/images/I/61-E0NlrKUL._SX450_.jpg",
+  "experience": {
+    "dificult": "Intermedia"
+  },
+  "score": 0,
+  "maker": {
+    "forBuild": false,
+    "build": "2 horas"
+  },
+  "dimensions": {
+    "carry": false,
+    "volume": "500x480x280"
+  },
+  "price": 350,
+  "quality": "Mala",
+  "moreInformation": "./monoprice-maker-select-v2",
+  "buy": "https://www.amazon.es/Monoprice-Printer-Impresora-Enchufe-121870/dp/B06XXPJSXM"
+},
+{
+  "printerName": "Creality CR-10 Aibecy 3D",
+  "printerimage": "https://images-na.ssl-images-amazon.com/images/I/61D6V4Qww9L._SX522_.jpg",
+  "experience": {
+    "dificult": "Básica"
+  },
+  "score": 0,
+  "maker": {
+    "forBuild": false,
+    "build": "-"
+  },
+  "dimensions": {
+    "carry": false,
+    "volume": "500x480x280"
+  },
+  "price": 500,
+  "quality": "Buena",
+  "moreInformation": "./creality-cr-10-aibecy-3d",
+  "buy": "https://www.amazon.es/Creality-Aibecy-Impresora-Impresi%C2%A8%C2%AEn-Filamento/dp/B0772M4M5Q"
+},
+{
+  "printerName": "Creality CR-10s Aibecy 3d",
+  "printerimage": "https://images-na.ssl-images-amazon.com/images/I/61GoK1NcuqL._SX466_.jpg",
+  "experience": {
+    "dificult": "Básica"
+  },
+  "score": 0,
+  "maker": {
+    "forBuild": false,
+    "build": "-"
+  },
+  "dimensions": {
+    "carry": false,
+    "volume": "500x480x280"
+  },
+  "price": 550,
+  "quality": "Buena",
+  "moreInformation": "./creality-cr-10s-aibecy-3d",
+  "buy": "https://www.amazon.es/Creality-Aibecy-Impresora-Impresi%C2%A8%C2%AEn-Filamento/dp/B0772RW712"
+},
+{
+  "printerName": "Tronxy Impresora 3D de Escritorio",
+  "printerimage": "https://images-na.ssl-images-amazon.com/images/I/61UettD1PjL._SX425_.jpg",
+  "experience": {
+    "dificult": "Intermedia"
+  },
+  "score": 0,
+  "maker": {
+    "forBuild": false,
+    "build": "-"
+  },
+  "dimensions": {
+    "carry": true,
+    "volume": "220x220x220"
+  },
+  "price": 170,
+  "quality": "Mala",
+  "moreInformation": "./tronxy-impresora3d-de-escritorio",
+  "buy": "https://www.amazon.es/Tronxy-Impresora-Escritorio-Apoyar-Muti-idoma/dp/B07849B2YM"
+},
+{
+  "printerName": "Impresora Acrílica 3D Geeetech Prusa I3",
+  "printerimage": "https://images-na.ssl-images-amazon.com/images/I/51btpEFWpFL._SX466_.jpg",
+  "experience": {
+    "dificult": "Avanzada"
+  },
+  "score": 0,
+  "maker": {
+    "forBuild": true,
+    "build": "15 horas"
+  },
+  "dimensions": {
+    "carry": true,
+    "volume": "220x220x180"
+  },
+  "price": 200,
+  "quality": "Media",
+  "moreInformation": "./impresora-acrilica-3d-geeetech-prusa-i3",
+  "buy": "https://www.amazon.es/Impresora-Acr%C3%ADlica-Geeetech%C2%AE-Pro-Calidad/dp/B01GJDO9I0"
+},
+{
+  "printerName": "BQ Hephestos 2 - Impresora 3D",
+  "printerimage": "https://images-na.ssl-images-amazon.com/images/I/41aVMdPlcZL._SX425_.jpg",
+  "experience": {
+    "dificult": "Intermedia"
+  },
+  "score": 0,
+  "maker": {
+    "forBuild": true,
+    "build": "5 horas"
+  },
+  "dimensions": {
+    "carry": false,
+    "volume": "510x660x450"
+  },
+  "price": 800,
+  "quality": "Intermedia",
+  "moreInformation": "./bq-hephestos-2-impresora-3d",
+  "buy": "https://www.amazon.es/BQ-Hephestos-Impresora-resoluci%C3%B3n-velocidad/dp/B0196V84UG/"
+},
+{
+  "printerName": "BQ Hephestos - Impresora 3D",
+  "printerimage": "https://images-na.ssl-images-amazon.com/images/I/81yEGjoX06L._SX466_.jpg",
+  "experience": {
+    "dificult": "Intermedia"
+  },
+  "score": 0,
+  "maker": {
+    "forBuild": true,
+    "build": "10 horas"
+  },
+  "dimensions": {
+    "carry": false,
+    "volume": "14kg"
+  },
+  "price": 500,
+  "quality": "Intermedia",
+  "moreInformation": "./bq-hephestos-impresora-3d",
+  "buy": "https://www.amazon.es/BQ-Hephestos-Impresora-resoluci%C3%B3n-velocidad/dp/B01N2S1NO0"
+},
+{
+  "printerName": "GIANTARM Mecreator2 impresora 3D",
+  "printerimage": "https://images-na.ssl-images-amazon.com/images/I/61PClyeEM0L._SX466_.jpg",
+  "experience": {
+    "dificult": "Básica"
+  },
+  "score": 0,
+  "maker": {
+    "forBuild": false,
+    "build": "-"
+  },
+  "dimensions": {
+    "carry": true,
+    "volume": "320x360x320"
+  },
+  "price": 350,
+  "quality": "Buena",
+  "moreInformation": "./giantarm-crecreator2-impresora-3d",
+  "buy": "https://www.amazon.es/Mecreator2-ensamblada-resistente-compatible-filamentos/dp/B01EFFWER2"
+},
+{
+  "printerName": "BIBO Impresora 3D De Marco Metálico",
+  "printerimage": "https://images-na.ssl-images-amazon.com/images/I/615bvtQjxHL._SX466_.jpg",
+  "experience": {
+    "dificult": "Básica"
+  },
+  "score": 0,
+  "maker": {
+    "forBuild": false,
+    "build": "-"
+  },
+  "dimensions": {
+    "carry": false,
+    "volume": "510x430x400"
+  },
+  "price": 800,
+  "quality": "Buena",
+  "moreInformation": "./bibo-impresora-3d-de-marco-metalico",
+  "buy": "https://www.amazon.es/BIBO-Impresora-Extrusora-Impresi%C3%B3n-Desmontable/dp/B01LNADH8M"
+}]
